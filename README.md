@@ -1,33 +1,59 @@
 # vscode-extensions
 
-This is a document that I absolutely recommend the following extensions to program with Node and React in Visual Studio Code. Also, I leave you the next JSON file with the settings about those extensions I use.
+This is a document that I absolutely recommend the following extensions to program with Node and React in Visual Studio Code. Also, I leave a `settings.json` file with the settings about those extensions I use.
 
+- Activitus Bar
+- Apollo GraphQL
 - Auto Close Tag
 - Auto complete Tag
 - Auto rename Tag
 - Babel Javascript
+- Better Comments
 - Bookmarks
+- Color Highlight
 - Color Picker
+- Composer
+- CSS Modules
 - Debugger for Chrome
+- Dev Containers
+- Docker
+- DotENV
+- ES7+React/Redux/React-Native snippets
 - ESLint
 - File Utils
-- Flow Language mode for VSCode -only if you are using flow
-- Flow Language server client -only if you are using flow
-- Flow Language support -only if you are using flow
 - GitLens
+- Gradle for Java
+- IntelliPHP - AI Autocomplete for PHP
+- Javascript and Typescript Nightly
+- Jira and Bitbucket (Atlassian Labs)
+- JSON (Beautify JSON)
+- Laravel Extra Intellisense
+- Lorem ipsum
 - Markdown Preview Enhanced
+- Material Icon Theme
+- NEXTJS Snippets tsx and jsx
 - One Monokai Theme - optional
 - Open file From Path
-- Open Files (Beta)
+- Open Files
+- Paste JSON as Code
 - Path Autocomplete
+- PHP
+- PHP Debug
+- PHP Profiler
+- PostCSS Language Support
 - Prettier - Code formatter
-- React.js with Flow Types code snippets
+- Prisma
+- Quote List
 - Reactjs code snippets
+- Simple React Snippets
+- Snippets simple Next.js 13
 - Sort lines
 - stylelint
+- SQL Formatter
+- Stylelint
 - swyx-react-typescript-snippets
 - Tailwind CSS IntelliSense
-- TSLint
+- TypeScript importer
 - TypeScript Hero
 - VS Color Picker
-- Vscode-flow-ide
+- YAML
